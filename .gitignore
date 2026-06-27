@@ -1,5 +1,4 @@
 venv/
 .env
-vectorstore/
 __pycache__/
-echo ".DS_Store" >> .gitignore
+.DS_Store
